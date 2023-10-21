@@ -1,6 +1,4 @@
-### I am Jernil 
-### a Computer Graphics Engineer and Enthusiast
-### Passionate filmmaker and Game director
+### I am Jernil, a Computer Graphics Engineer and Enthusiast. Also, a passionate Filmmaker and Game director
 
 - 🧊 I’m currently working on 3D Web Applications, a Render Engine tutorial series & a Kids Story platform in Web 3D
 - 🌱 I’m currently learning WebGPU, Shaders etc.
