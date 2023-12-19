@@ -10,3 +10,4 @@
 - 🤔 I’m looking for help with building a Gaussian Splat viewer & the Kids Story platform.
 - 💬 Ask me about building 3D web applications end-to-end
 - 📫 How to reach me: mikejernil96@gmail.com
+- 🌎 How to reach me, but WIP: https://jernil.framer.ai/
