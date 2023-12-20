@@ -1,7 +1,7 @@
 ### 🧊 I am Jernil, a Computer Graphics Engineer and Enthusiast. 
 - Helping companies build 3D web applications with Real-time rendering. 
 - Creating Graphics Resources for the layman (incl. Me) @ What The Graphics! Blog
-- A passionate Filmmaker and Game director 🎮
+- A Passionate Filmmaker and Game director 🎮
 
 ### Current work
 - 🧊 I’m currently working on 3D Web Applications, a Render Engine tutorial series & a Kids Story platform in Web 3D
