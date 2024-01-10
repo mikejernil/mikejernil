@@ -1,7 +1,7 @@
 ### 🧊 I am Jernil, a Computer Graphics Engineer and Enthusiast.
 You can reach out to me via www.3denginerd.com
 - Helping companies build 3D web applications with Real-time rendering at **3D ENGINERD.**
-- Creating Graphics Resources for the layman (incl. Me) @ **What The Graphics!**
+- Creating Computer Graphics Resources for the layman at **What The Graphics!**
 - A Passionate Filmmaker and Game director. 🎮
 
 ### Current work
@@ -9,6 +9,5 @@ You can reach out to me via www.3denginerd.com
 - 🌱 I’m currently learning WebGPU, Shaders etc.
 - 👥 I'm looking to collaborate on exciting Computer Graphics Projects!
 - 🤔 I’m looking for help with building a Gaussian Splat viewer & the Kids Story platform.
-- 💬 Ask me about building 3D web applications end-to-end
-- 📫 How to reach me: mikejernil96@gmail.com
-- 🌎 How to reach me, but WIP: https://jernil.framer.ai/
+- 💬 Ask me about building 3D Web applications & Render Engines end-to-end
+- 📫 Reach out via email for any collaborations: mikejernil96@gmail.com
